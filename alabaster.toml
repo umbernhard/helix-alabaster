@@ -27,7 +27,7 @@
 "string" = "string"
 "comment" = "comment"
 "function" = "definitions"
-"constan" = "constants"
+"constant" = "constants"
 "punctuation" = "punctuation"
 
 
